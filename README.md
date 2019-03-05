@@ -1,6 +1,6 @@
 
-/**
-
+```php
+	/**
 	* 牛牛
 	 * 纸牌游戏牛牛的最优算法
 	 * 1.计算5张牌(10-K都是0)之和，获得余数X
@@ -852,3 +852,4 @@ INSERT INTO `niu` VALUES ('49', '0', 'Ka');
 INSERT INTO `niu` VALUES ('50', '0', 'Kb');
 INSERT INTO `niu` VALUES ('51', '0', 'Kc');
 INSERT INTO `niu` VALUES ('52', '0', 'Kd');
+```
